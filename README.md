@@ -1,7 +1,5 @@
 # Hello, I am Welton.
 
-![Profile Banner](https://via.placeholder.com/1200x300/CCCCCC/000000?text=Profile+Banner) <!-- Placeholder banner -->
-
 ## About Me
 
 Hello! I am a data scientist specializing in Natural Language Processing (NLP). With both a Bachelor’s and a Master’s degree in Computer Science, I have developed a strong foundation in various data science methodologies and technologies.
