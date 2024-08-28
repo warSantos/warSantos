@@ -10,8 +10,10 @@ Hello! I am a data scientist specializing in Natural Language Processing (NLP). 
 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/welton-augusto-santos/).
 
 ---
-[Papers](papers.md)
----
+
+### [Published Papers](papers.md)
+
+
 *This page is powered by GitHub Pages.*
 
 </div>
