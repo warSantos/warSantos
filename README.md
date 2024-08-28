@@ -1,5 +1,3 @@
-<div style="background-color: #1e1e1e; color: white; padding: 10px; border-radius: 5px;">
-
 # Hello, I am Welton.
 
 ## About Me
@@ -15,5 +13,3 @@ Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/w
 
 
 *This page is powered by GitHub Pages.*
-
-</div>
